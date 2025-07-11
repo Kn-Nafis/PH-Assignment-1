@@ -105,3 +105,60 @@ div{
     font-size: 50px;
     justify-content: center;
 }
+.s3{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 100px;
+}
+.star{
+    display: flex;
+    
+}
+.rating{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+    
+}
+.rate{
+    padding-top: 24px;
+    padding-left: 24px;
+    box-sizing: border-box;
+    box-shadow: 1px;
+    
+position: static;
+width: 366.67px;
+height: 270px;
+box-sizing: border-box;
+border: 1px solid rgb(242, 237, 237);
+border-radius: 14px;
+
+background: rgba(255, 255, 255, 0.5);
+
+}
+.rate-title  {
+    margin-top: 0px;
+    text-align: left;
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 0px;
+}
+.rate-comment{
+    padding-top: 0px;
+    margin-top: 0px;
+    text-align: left;
+}
+.name{
+    text-align: left;
+    font-size: 10px;
+    margin-left: 20px;
+    color: #252432;
+}
+/* form */
+.form-title{
+    font-size: 97px;
+    font-weight: 700px;
+    text-align: left;
+    margin-left: 150px;
+}
