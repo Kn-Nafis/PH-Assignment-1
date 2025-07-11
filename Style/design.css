@@ -64,7 +64,7 @@ div{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 70px 50px 70px;
+    
 }
 .banner-title{
     font-weight: bold;
@@ -72,4 +72,36 @@ div{
 }
 .banner-con{
     text-align: left;
+}
+.action{
+    padding: 20px 70px 50px 70px;
+    
+}
+/* user */
+.user{
+    background-color: #d2d1ec;
+    border-radius: 24px;
+    margin-top: 50px;
+    margin-left: 141px;
+    margin-right: 150px;
+    margin-bottom: 50PZ;
+    height: 270px;
+}
+.user-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color:#4E47FF;
+}
+.about-rate{
+    display: flex;
+    justify-content: center;
+    gap: 152px;
+}
+.item-title{
+    margin-bottom: 0px;
+    font-weight: bold;
+    color: #4E47FF;
+    font-size: 50px;
+    justify-content: center;
 }
