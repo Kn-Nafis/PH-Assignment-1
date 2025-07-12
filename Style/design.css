@@ -65,7 +65,8 @@ div{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
+   margin-left: 100px;
+   margin-right: 100px;
 }
 .banner-title{
     font-weight: bold;
@@ -166,6 +167,7 @@ background: rgba(255, 255, 255, 0.5);
     margin-bottom: 71px;
     margin-left: 150px;
     margin-right: 150px;
+    padding-top: 71px;
 }
 .ready-title{
     color: rgb(0, 0, 0);
@@ -312,6 +314,7 @@ background: rgb(255, 255, 255);
 }
 .main{
     background-color: #F5F8FF;
+    
 }
 .mgs{
     padding-top: 0px;
